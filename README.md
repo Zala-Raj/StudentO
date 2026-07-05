@@ -21,7 +21,6 @@ The aim of StudentO is to make everyday student tasks easier by providing a clea
 - 🔔 Reminder System with Notifications
 - 📊 Statistics Dashboard
 - 👤 Student Profile
-- 🪪 College ID Storage
 - 🌙 Light Mode / Dark Mode / System Default
 - 💾 Local Backup & Restore
 - 📤 Share & Export Data
