@@ -1,37 +1,46 @@
 # 📚 StudentO
 
-## Introduction
+StudentO is a simple, offline-first student productivity app designed to help students stay organized without unnecessary complexity. The app combines the essential tools students use every day into one clean and easy-to-use application.
 
-StudentO is a modern offline student productivity app designed to help students organize their daily academic life in one place.
-
-This project is fully developed using Google AI Studio as a learning project to improve my app development skills and UI/UX design. My goal was to create an application that students can actually use every day without requiring an internet connection or account.
-
-## 🎯 Aim
-
-The aim of StudentO is to make everyday student tasks easier by providing a clean, fast, and user-friendly application for managing studies, schedules, and personal academic information.
+This project was built primarily using Google AI Studio as an experiment to explore AI-assisted app development. It is one of my learning projects, where I focused on designing a useful app while improving my engineering prompting skills.
 
 ## ✨ Features
 
-- 🏠 Clean Home Dashboard
-- 📅 Weekly Timetable with Professor Names
-- ✅ Attendance Tracker
-- 📝 Notes
-- ✔️ To-Do List
-- 📚 Assignment Tracker
-- 🔔 Reminder System with Notifications
-- 📊 Statistics Dashboard
-- 👤 Student Profile
-- 🌙 Light Mode / Dark Mode / System Default
-- 💾 Local Backup & Restore
-- 📤 Share & Export Data
-- ✈️ Vacation Mode (Pause App Notifications)
+- 🏠 Clean and modern home page
+- 📅 Weekly timetable management
+- ✅ To-do list with reminders
+- 📝 Notes management
+- 📊 Attendance tracker
+- 🔔 Daily reminder notifications
+- 🌙 Light, Dark, and System themes
+- 💾 Import & Export backup system
+- 📤 Share feature
+- 📱 Fully offline (No login required)
 
-## 🛠️ Built With
+## 🎯 Why I Built StudentO
+
+As a student, I wanted an app that focuses on the essentials instead of adding dozens of features that most people never use. Many student apps are either too complicated or require creating an account.
+
+StudentO keeps everything local on your device, making it simple, fast, and privacy-friendly.
+
+## 🚀 Tech
 
 - Google AI Studio
+- Android
+- Local device storage
+- ChatGPT prompting 
 
-## 💙 About
+## 📌 Project Status
 
-StudentO is my second Android application after Listora. I built this project to learn app development, improve my UI/UX design skills, and create something useful for students. The app is still being improved, and I plan to add more features and refinements in future updates.
+StudentO is actively being improved. Future updates may include UI redesigns, better organization tools, and additional productivity features while keeping the app lightweight and easy to use.
 
-## ⭐ If you like this project, consider giving it a star. Your support motivates me to keep learning and building better applications!
+## 🤝 Feedback
+
+Suggestions, feature requests, and bug reports are always welcome. Feel free to open an issue or start a discussion.
+
+## 👨‍💻 Developer
+
+Made with ❤️ by Raj Zala @2026
+
+Thank you for checking out StudentO! 
+⭐ If you like the project, consider giving it a star.
