@@ -17,6 +17,14 @@ This project was built primarily using Google AI Studio as an experiment to expl
 - 📤 Share feature
 - 📱 Fully offline (No login required)
 
+## 🔔 Important Notification Tips
+
+For the most reliable reminder notifications, it is recommended to disable battery optimization (battery saver restrictions) for StudentO. Some Android devices may delay or block scheduled notifications when battery optimization is enabled. Allowing StudentO to run without battery restrictions helps ensure your reminders are delivered as accurately and consistently as possible. The exact steps may vary depending on your device manufacturer.
+
+## 📥 Download
+
+You can download the latest StudentO APK from the Releases section of this GitHub repository. Simply download the newest APK file, install it on your Android device, and you're ready to go. If this is your first time installing an APK, you may need to enable "Install unknown apps" (or "Install from unknown sources") in your device settings. Once installed, open StudentO and start organizing your timetable, notes, attendance, and daily tasks—all without creating an account.
+
 ## 🎯 Why I Built StudentO
 
 As a student, I wanted an app that focuses on the essentials instead of adding dozens of features that most people never use. Many student apps are either too complicated or require creating an account.
