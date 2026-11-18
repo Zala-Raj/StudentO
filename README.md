@@ -1,4 +1,4 @@
-# 📚 StudentO
+# StudentO
 
 StudentO is a simple, offline-first Android productivity app designed to help students organize their academic life in one place.
 
@@ -9,9 +9,9 @@ This project was built primarily using Google AI Studio as an experiment in AI-a
 ---
 
 
-## ✨ Features
+## Features
 
-📅 Timetable
+Timetable
 
 - Create and manage your weekly timetable.
 - Easily edit lectures by tapping them.
@@ -19,39 +19,39 @@ This project was built primarily using Google AI Studio as an experiment in AI-a
 - Add comments and reminders to lectures.
 - Edit comments and reminders directly by tapping them.
 
-📝 Notes
+Notes
 
 - Create and manage your notes.
 - Keep important academic information organized in one place.
 
-✅ To-Do List
+To-Do List
 
 - Create tasks and reminders.
 - Keep track of your daily work and assignments.
 
-📊 Attendance
+Attendance
 
 - Track attendance for your lectures.
 - View your attendance summary.
 - Use the What If? feature to understand how upcoming attendance can affect your overall percentage.
 
-📆 Planner
+Planner
 
 - View lectures, tasks, assignments, and other work in a calendar-based layout.
 - Plan your days more effectively.
 - Easily keep track of upcoming academic activities.
 
-📚 History
+History
 
 - View your previous lecture history.
 - Accessible directly from the Today's Lecture section on the Home page.
 
-🔔 Notifications
+Notifications
 
 - Get reminders for important tasks, lectures, and other activities.
 - Manage notification preferences through the Notification Center in Settings.
 
-🎨 Themes & UI
+Themes & UI
 
 - Light Mode
 - Dark Mode
@@ -60,13 +60,13 @@ This project was built primarily using Google AI Studio as an experiment in AI-a
 - Smooth animations throughout the app
 - Regular UI and usability improvements
 
-💾 Backup
+Backup
 
 - Export your data for backup.
 - Import your data whenever needed.
 - Keep your information available even when switching devices.
 
-📱 Offline First
+Offline First
 
 - No account required.
 - No internet connection required.
@@ -74,7 +74,7 @@ This project was built primarily using Google AI Studio as an experiment in AI-a
 
 ---
 
-## 📥 Download
+## Download
 
 You can download the latest version of StudentO from the Releases section of this repository.
 
@@ -86,7 +86,7 @@ You can download the latest version of StudentO from the Releases section of thi
 
 ---
 
-## 🔔 Notification Recommendation
+## Notification Recommendation
 
 For the most reliable reminder notifications, it is recommended to disable battery optimization for StudentO.
 
@@ -96,7 +96,7 @@ The exact steps may vary depending on your Android device manufacturer.
 
 ---
 
-## 🛠️ Tech
+## Tech
 
 - Android
 - Google AI Studio
@@ -105,7 +105,7 @@ The exact steps may vary depending on your Android device manufacturer.
 
 ---
 
-## 🎯 Why StudentO?
+## Why StudentO?
 
 Student life involves managing lectures, assignments, tasks, notes, attendance, and deadlines-all at the same time.
 
@@ -113,7 +113,7 @@ StudentO was created to bring these everyday academic needs together in one simp
 
 ---
 
-## 🚀 Project Status
+## Project Status
 
 StudentO is an ongoing project and is continuously being improved.
 
@@ -121,7 +121,7 @@ Future updates may include new features, UI improvements, performance optimizati
 
 ---
 
-## 🐞 Bugs & Feedback
+## Bugs & Feedback
 
 StudentO is still under active development, so you may encounter some bugs.
 
@@ -135,10 +135,10 @@ Your feedback helps improve the project! ❤️
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 Made with ❤️ by Raj Zala @2026
 
 If you find StudentO useful, consider giving the repository a ⭐ on GitHub.
 
-Thank you for checking out StudentO! 🚀
+Thank you for checking out StudentO!
